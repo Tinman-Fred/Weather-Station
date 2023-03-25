@@ -1,4 +1,4 @@
-/* UPDATED BY CMCMURRAY
+/* UPDATED BY Tinman-Fred
  * Rui Santos 
  * Complete Project Details http://randomnerdtutorials.com
  */
